@@ -17,3 +17,10 @@ It follows the **penetration testing workflow**:
 - Metasploit  
 - Kali Linux tools  
 - Bash & Python scripting  
+
+## 🎯 Goal
+To build a practical foundation in penetration testing and document hands-on skills for my career as a future Penetration Tester / Ethical Hacker.
+
+## 📫 Connect
+- LinkedIn: [linked.com/in/pranavmohanraj]  
+- GitHub: [github.com/pranavexploit]  
