@@ -61,4 +61,3 @@ This repository is actively maintained and updated as new labs and techniques ar
 
 Email: pranavmohanrajhacks@gmail.com  
 LinkedIn: https://linkedin.com/in/pranavmohanraj
-Phone: +94773100416
